@@ -955,5 +955,104 @@
   <park>UplandParcs Silvretta</park>
 </item>
 
+    <item>
+  <id>Astenblick-1</id>
+  <title>Modern appartement voor 4+2 personen met infraroodsauna in Altastenberg</title>
+  <description><![CDATA[In dit vakantieappartement van de Astenblick Apartments is plaats voor maximaal 6 personen. Gezellige woonkamer, balkon en eigen infraroodsauna. Geniet van actieve dagen en ontspannen avonden.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1413%2Frecreation%2Fobjecttype%2F21048%2F145554.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.nl/informatie?objectType=astenblick-apartments-4-2pax</link>
+  <location>Winterberg-Altastenberg, Duitsland</location>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>112</category_id>
+  </category_ids>
+  <park>Astenblick Apartments</park>
+</item>
+
+<item>
+  <id>Astenblick-2</id>
+  <title>Wellness inbegrepen: 2-slaapkamerappartement met jacuzzi voor 4+2 personen</title>
+  <description><![CDATA[Mag het wat luxer zijn? Wonen, koken, ontspannen en buiten in de jacuzzi genieten van het uitzicht op de natuur van Winterberg.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1413%2Frecreation%2Fobjecttype%2F21051%2F145650.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.nl/informatie?objectType=astenblick-apartments-4-2pax-jacuzzi</link>
+  <location>Winterberg-Altastenberg, Duitsland</location>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>112</category_id>
+  </category_ids>
+  <park>Astenblick Apartments</park>
+</item>
+
+<item>
+  <id>Astenblick-3</id>
+  <title>2-slaapkamer XL-appartement met veel ruimte voor 4 personen</title>
+  <description><![CDATA[Extra ruimte, extra gezellig: stijlvol XL-appartement met ruime woon-/eetkamer, balkon en infraroodsauna. Wat wil je nog meer?]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1413%2Frecreation%2Fobjecttype%2F21030%2F145479.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.nl/informatie?objectType=astenblick-apartments-4pax-xl</link>
+  <location>Winterberg-Altastenberg, Duitsland</location>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>112</category_id>
+  </category_ids>
+  <park>Astenblick Apartments</park>
+</item>
+
+<item>
+  <id>Astenblick-4</id>
+  <title>3-slaapkamerappartement voor 6 personen in Altastenberg</title>
+  <description><![CDATA[Veel ruimte om samen tijd door te brengen: drie slaapkamers, moderne keuken, balkon en korte afstanden naar pistes en wandelroutes.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1413%2Frecreation%2Fobjecttype%2F21054%2F145692.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.nl/informatie?objectType=astenblick-apartments-6pax</link>
+  <location>Winterberg-Altastenberg, Duitsland</location>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>112</category_id>
+  </category_ids>
+  <park>Astenblick Apartments</park>
+</item>
+
+<item>
+  <id>Astenblick-5</id>
+  <title>Perfect voor grotere groepen: 4-slaapkamerappartement voor 8 personen</title>
+  <description><![CDATA[Samen genieten: ruim appartement voor maximaal 8 personen met lichte woonkamer, balkon en hoogwaardige inrichting.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1413%2Frecreation%2Fobjecttype%2F21057%2F145770.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.nl/informatie?objectType=astenblick-apartments-8pax</link>
+  <location>Winterberg-Altastenberg, Duitsland</location>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>112</category_id>
+  </category_ids>
+  <park>Astenblick Apartments</park>
+</item>
+
+<item>
+  <id>Astenblick-6</id>
+  <title>Ruim XL-appartement in Altastenberg voor maximaal 8 personen</title>
+  <description><![CDATA[XL-comfort voor grote groepen: veel ruimte om te koken, spelen en ontspannen. Met balkon, stijlvolle inrichting en eigen infraroodsauna.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1413%2Frecreation%2Fobjecttype%2F21060%2F145842.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.nl/informatie?objectType=astenblick-apartments-8pax-xl</link>
+  <location>Winterberg-Altastenberg, Duitsland</location>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>112</category_id>
+  </category_ids>
+  <park>Astenblick Apartments</park>
+</item>
+
+<item>
+  <id>Astenblick-7</id>
+  <title>Groot penthouse voor maximaal 12 personen met prachtig uitzicht</title>
+  <description><![CDATA[Penthousegevoel op twee niveaus: tot 12 personen, royale woonruimtes, stijlvol interieur en adembenemende uitzichten.]]></description>
+  <image_link>https://www.uplandparcs.de/_next/image?url=https%3A%2F%2Fportal.everyoffice.nl%2Fimages%2Fcompanyfiles%2F1413%2Frecreation%2Fobjecttype%2F21063%2F145899.jpg&w=3840&q=75</image_link>
+  <link>https://www.uplandparcs.nl/informatie?objectType=astenblick-apartments-12pax-penthouse</link>
+  <location>Winterberg-Altastenberg, Duitsland</location>
+  <category_ids>
+    <category_id>3</category_id>
+    <category_id>112</category_id>
+  </category_ids>
+  <park>Astenblick Apartments</park>
+</item>
+
+
 </channel>
 </rss>
